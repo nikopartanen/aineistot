@@ -1,0 +1,66 @@
+# Tutkimusetiikka
+
+Tänne jotain.
+
+## Aineistojen käyttö
+
+Periaatteessa mitä tahansa tietyllä kielellä olevaa materiaalia voi käyttää tutkimusaineistona. Toisaalta aiheen tarkempi miettiminen on hyvin kannattavaa. Usein haluat esimerkkejä jostain tietystä ilmiöstä tai asiasta. Lopullisessa analyysissasi voi olla hyvin tärkeää, millaisista konteksteista esimerkit tulevat. Tekstilaji, aika, käännöksellisyys ja muut seikat vaikuttavat väistämättä. Voit tietysti lähteä liikkeelle siitä, että keräät jonkin ilmiön kaikki esimerkit, jotka vain voit löytää, mutta tämä on käytännössä mahdoton tavoite. Tuloksena on, että olet saanut tietystä rajallisesta aineistosta ne esimerkit, jotka olet sattunut löytämään.
+
+Näin ollen tutkimasi asian esiintymisfrekvenssi vaikuttaa suoraan siihen, kuinka paljon aineistoa tarvitset.
+
+Annotoitujen korpusten hyvä puoli on siinä, että niiden sisältö on useimmiten valittu jonkin prinsiipin mukaan. Ihannetilanteessa tämä periaate on kuvattu jossain ja pystytään myöhemminkin perustelemaan järkevästi. Huomaa, että aina näin ei ole. Erityisesti kielten dokumentaatioprojekteissa tehdyt korpukset ovat usein ns. opportunistisia, ja tavoitteena on ollut kerätä kaikki mahdollinen. Se, mitä on lopulta litteroitu ja annotoitu, on kuitenkin useimmiten ollut hyvin tietoinen prosessi.
+
+Myös annotaatiot on aina tehty jonkin tietyn periaatteen mukaan. Tavoite on aina, että samaa annotaatiomallia käytetään systemaattisesti koko aineistossa. Tässä tavoitteessa harvoin onnistutaan, ja jokaiseen korpukseen jää jonkinlaisia virheitä. Älä luota yhdenkään aineiston olevan täydellisen systemaattinen. Jos jokin asia ei ole kunnossa, voit myös aina korjata sen itse. Voitko jakaa korjauksesi muiden kanssa riippuu mm. lisensseistä.
+
+## Lisenssit ja tekijänoikeudet
+
+Kaikkea aineistoa ei ole lisensoitu. Lisenssien puuttumattomuus on erityisen yleistä tietyillä kulttuurialueilla, esimerkiksi Venäjällä. Lisenssi käytännössä tarkoittaa sitä, että aineiston tekijä antaa muille oikeuden tehdä aineistolla tiettyjä asioita.
+
+Lisensoimatonta materiaalia ei periaatteessa voi käyttää kuin tietyin rajallisin ehdoin.
+
+Avoimet lisenssit ovat erityisen pitkällä ohjelmistokehityksen puolella.
+
+Kielitieteellisiin aineistoihin käytetään usein lisenssiä CC-BY. Tämä tarkoittaa, että aineiston käyttäjän on viitattava alkuperäiseen aineistoon ja tekijään. Aineistoista voi tehdä myös uusia versioita, mutta niidenkin yhteydessä on aina oltava viittaus.
+
+Viittaus on pakko tehdä tieteellisessä käytössä myös hyvän tieteellisen käytännön mukaisesti. Ei ole selvää, kuinka tiukasti CC-lisenssien rikkomisia valvotaan, ja käytännössä lisenssi on aina peli siitä, kenellä on eniten rahaa. Suuret yritykset rikkovat tekijänoikeuksia säännöllisesti sen turvin, ettei loukatuilla tahoilla ole resursseja haastaa heitä oikeuteen. Toisaalta hyvän tieteellisen käytännön rikkomisesta on melko selviä toimintamalleja ja rangaistuksia.
+
+### Lisenssityypit
+
+- CC-BY tarkoittaa, että lähteeseen on viitattava
+- CC-BY-NC kieltää kaupallisen käytön
+    - On erittäin vaikeaa määritellä, mitä on kaupallinen käyttö
+- CC-BY-ND kieltää johdannaisteokset (no derivations)
+    - Tiukasti tulkittuna mikä tahansa jatkokäyttö menee tämän allen
+- ACA ei varsinaisesti ole lisenssi, vaan käyttöehto, että aineistoa saa käyttää tutkimustyössä. Sitä ei siis saa jakaa edelleen, ja käytännössä kaikki käyttörajoitukset ovat voimassa.
+- CC-0 / Public Domain ei ole lisenssi, vaan oikeastaan lisenssin puuttuminen
+
+CC-0 on ajoittain esitetty suositelluksi lisenssiksi. On hieman epäselvää, salliiko laki kuitenkaan tekijänoikeuksista luopumista. Toisaalta ei ole selvää, tajuavatko tutkijat, että jo tieteellinen käytäntö pakottaa viittaamaan.
+
+### Public Domain
+
+On tiettyjä tapauksia, jolloin materiaali muuttuu tekijänoikeusvapaaksi. Selkein tapaus on ikä. 70 vuotta tekijän kuolemasta on Suomessa vallitseva raja to-menetykselle. Esimerkiksi Venäjällä tilanne voi olla erilainen, sillä esimerkiksi kansallissankareille ja sodan vainojen uhreille on erilaisia säädöksiä tämän suhteen.
+
+Tekijänoikeus voi myös raueta, jos kyseessä on orpoteos. Tämä tarkoittaa, että tekijällä ei ole perillisiä, joilla olisi oikeus teokseen. Tällöin hyvinkin tuore teos voisi periaatteessa olla lisenssivapaa. Käytännössä tämän todistaminen Suomessa on ilmeisen hankalaa, mutta esimerkiksi Venäjän kirjastot ovat tietyissä tapauksissa tehneet tätä.
+
+Tietyn teoksen olettaminen tekijänoikeusvapaaksi on aina tietty riski. Turvallisinta se on silloin, kun jokin kansallisesti virallinen taho on jo tehnyt määritelmän puolestasi. Tällöinkin viittaaminen juuri tuohon versioon on käyttäjän kannalta selkeintä ja turvallisinta.
+
+### Tutkimusaineistojen koonti ja lisenssi
+
+Kun keräät tutkimukseesi materiaalia eri lähteistä, teet käytännössä uutta aineistoa. Sinun on otettava käyttämiesi materiaalien lisenssit, jotta voit tietää, saako aineistoasi jakaa eteenpäin ja millaisin ehdoin. Nykyisin on modernia ja toivottavaa esimerkiksi jakaa tutkimusaineistosi artikkelisi tai gradusi liitteenä. Tai voit rekisteröidä käyttämäsi aineiston esimerkiksi Zenodo-palvelussa, ja viitata siihen erikseen. Näin jokainen julkaisu olisi käytännössä eräänlainen kaksoisjulkaisu, jossa julkaisisit erillisesti tutkimuksesi ja siinä käyttämäsi aineiston.
+
+Jos tästä halutaan tehdä oikein fiiniä, olisi syytä julkaista myös erillinen teksti, jossa kuvaat käyttämäsi aineiston. Suuremman tutkimuksen kuten gradusi yhteydessä tuo voisi hyvin olla jollain tavalla osa metodilukua.
+
+## Annotaatioiden välttämättömyys ja riittämättömyys
+
+Kuten totesin, annotoidut aineistot ovat usein hyvin hyödyllisiä. Tehokas hakeminen niistä mahdollistaa monessa kohtaa nopeamman halutun otoksen saamisen, jopa sen täydellisen automatisoinnin. Tämä ei kuitenkaan tarkoita, että työ olisi heti tehty. Tutkimuskysymyksestä riippuen esimerkkien syvällisempi annotointi on usein välttämätöntä. Tämä sinun on tehtävä itse. 
+
+On myös hyvin mahdollista, että olet eri mieltä korpuksen annotointien kanssa. Mieti tällöin, koodaavatko annotaatiot saman tiedon, kuin mitä itsekin merkitsisit, vai onko ongelma siinä, että jotain distinktiota oikeasti ei merkitä. Jos et pidä valitusta mallista, on se mahdollista aina muuttaa johonkin muuhun formaattiin, mutta puuttuvaa tietoa ei saa sinne kuin itse lisäämällä.
+
+Hyvin normaali tilanne on, että kun teet jonkinlaisen haun korpukseen, sisältää se esimerkiksi 95% juuri sitä mitä haluat. Joukossa on joka tapauksessa lähes aina jotain turhaakin, esimerkiksi annotaatiovirheitä tai johonkin muuhun liittyviä esimerkkejä. Joka tapauksessa näiden käyminen läpi jatkoannotaatiotyön yhteydessä on verrattain nopeaa. Mieti myös tarkkaan sitä, onko korpuksessa nykyisen haun ulkopuolelle jääviä esimerkkejä, jotka kuitenkin tarvitsisit.
+
+Yksi hyvä formaatti aineiston käsittelylle on perinteinen taulukkolaskentaohjelma, kuten LibreOffice tai Excel. Excelin kanssa kannattaa olla tarkkana, että se ei sotke fontteja. Yksi hyvä vaihtoehto on niin sanottu CSV-tiedosto. Tämä tarkoittaa comma-separated-values. Pilkun sijasta erottava merkki voi myös olla sarkain tai puolipiste. Tällaisen voi myös avata Excelissä ja muualla, ja se on monissa tapauksissa hyvin elegantti vaihtoehto.
+
+## Aineiston ja tutkimuksen erillisyys ja yhteys
+
+
+## Versiokontrolli

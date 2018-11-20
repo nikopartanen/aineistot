@@ -1,0 +1,82 @@
+## Tietosuojalain nykytila
+
+> Eduskunnan on tarkoitus hyväksyä asetusta täydentävä tietosuojalaki syksyllä 2018. Asetuksen edellyttämät kansalliset lainsäädäntömuutokset ja yksityiskohdat ovat vielä auki. Tietosuoja-asetusta on tästä huolimatta sovellettava 25.5.2018 alkaen. [(lähde)](https://ek.fi/mita-teemme/yrityslainsaadanto/tietosuojalainsaadanto/tietopaketti-yrityksille-on-aika-valmistautua-eun-yleiseen-tietosuoja-asetukseen/)
+
+> Kansallista liikkumavaraa yleisen tietosuoja-asetuksen täydentämiseksi ehdotetaan käytettävän tilanteissa, joissa henkilötietolain kumoamisesta seuraisi tarve kansalliseen sääntelyyn, esimerkiksi henkilötietojen käsittelyn oikeusperusteen säilyttämiseksi eräissä tilanteissa tai tieteellisen tutkimuksen edellytysten säilyttämiseksi mahdollisimman pitkälle nykyisen kaltaisina. [(lähde)](https://www.eduskunta.fi/FI/vaski/HallituksenEsitys/Sivut/HE_9+2018.aspx)
+
+> Edellytyksenä on niin ikään, että henkilörekisteriä käytetään ja siitä luovutetaan henkilötietoja vain historiallista tai tieteellistä tutkimusta varten sekä muutoinkin toimitaan niin, että tiettyä henkilöä koskevat tiedot eivät paljastu ulkopuolisille, ja että henkilörekisteri hävitetään tai siirretään arkistoitavaksi tai sen tiedot muutetaan sellaiseen muotoon, ettei tiedon kohde ole niistä tunnistettavissa, kun henkilötiedot eivät enää ole tarpeen tutkimuksen suorittamiseksi tai sen tulosten asianmukaisuuden varmistamiseksi. [(lähde)](https://www.eduskunta.fi/FI/vaski/HallituksenEsitys/Sivut/HE_9+2018.aspx)
+
+
+## GDPR
+
+Kesällä 2018 EU:n yleinen tietosuoja-asetus (General Data Protection Regulation, GDPR) astui voimaan. Se antaa yksityishenkilöille paremman suojan heidän henkilötiedoilleen ja keinot hallita niiden käsittelyä.
+
+Tutkija, joka kerää tutkimusaineistoa, käsittelee lähes poikkeuksetta henkilötietoja. On mahdollista kerätä tietoja esimerkiksi anonyymin lomakkeen kautta, mutta tutkimuksen itsensä kannalta on yleensä tärkeä tietää kuka puhuja on, mikä on hänen sukupuolensa, ikänsä, syntymäpaikkansa tai äidinkielensä. Tarkka kerättävä tieto riippuu tutkimuskysymyksestä.
+
+Henkilötietoja ovat esimerkiksi [(lähde: Tietosuoja.fi)(https://tietosuoja.fi/gdpr)]:
+
+- nimi
+- kotiosoite
+- sähköpostiosoite, kuten etunimi.sukunimi@yritys.com
+- puhelinnumero
+- henkilökortin numero
+- auton rekisterinumero
+- paikannustiedot
+- IP-osoite
+- potilastiedot
+- isovanhempien perinnöllisiä sairauksia koskevat tiedot
+
+Näiden ohella on tässä yhteydessä mainittava, että myös **ääni** on henkilötieto. Tämä johtuu yksiselitteisesti siitä, että ihmiset pystyvät erittäin tarkasti tunnistamaan kenen tahansa tutun henkilön äänen. Toisaalta puheen automaattisen tunnistamisen, johon liittyy puhujan tunnistus, tekniikat kehittyvät niin nopeasti, että jos äänitiedosto on kuunneltavissa, on tämä käytännössä sama kuin että ainakin nimi olisi myös saatavilla. Tämä täytyy ottaa huomioon.
+
+Henkilötietojen käsittelyyn tarvitaan peruste. Tällaisia ovat esimerkiksi:
+
+- rekisteröidyn suostumus
+- sopimus
+- rekisterinpitäjän lakisääteinen velvoite
+- elintärkeiden etujen suojaaminen
+- yleinen etu ja julkinen valta
+- rekisterinpitäjän tai kolmannen osapuolen oikeutettu etu.
+
+Ongelma suostumuksen ja sopimuksen käytössä käsittelyperiaatteena on se, että ne mahdollistavat käytön vain tiettyyn tai useampaan sopimuksessa määriteltyyn tarkoitukseen. Ei ole laillisesti mahdollista sopia, että kerättyä aineistoa käytetään yleisesti kielitieteellisessä tutkimuksessa tulevaisuudessa. 
+
+Perinteisesti kielitieteellisen aineistonkeruun yksi päätavoite on kuitenkin ollut tallentaa näytteitä katoavista ja uhanalaistuvista kielimuodoista tulevaa käyttöä varten. Tämä vastaa hengeltään hyvin yleisen edun määrittelyä laissa:
+
+> Yleisen edun mukaista käsittelyä voi esimerkiksi olla henkilötietojen käsittely tieteellisen tai historiallisen tutkimuksen tai tilastoinnin tarkoituksia varten.
+
+Näin ollen akateemiseen instituution affilioituneen tutkijan tai projektin työ melko yksiselitteisesti menisi tämän alle.
+
+Aineistojen pitkäaikaissäilytys ja muut arkistointikysymykset selkenevät vasta kun Suomen uusi arkistolaki valmistuu. Käytännössä kuitenkin normaali tilanne olisi, että tutkijat voisivat tutkimusprojektiensa yhteydessä arkistoida aineistot esimerkiksi Kotimaisten kielten keskukseen ja Kielipankkiin, mistä he itsekin saisivat ne uudelleen mahdollisia uusia tutkimuksiaan varten.
+
+Käytännössä tapana on ollut, että tutkijat keräävät aineistoa ja säilyttävät sitä omilla tietokoneillaan vuosikymmeniä. Käytännössä on kuitenkin lain ja etiikan kannalta täysin mahdotonta, että tutkijat, yksityishenkilöinä, säilyttävät henkilötietoja sisältävää aineistoa tällä tavalla.
+
+## Data management plan
+
+Tietojen käsittelystä on tehtävä suunnitelma seuraavissa tapauksissa:
+
+- henkilötietojen käsittely organisaatiossa ei ole satunnaista
+- organisaation vastuulla oleva henkilötietojen käsittely todennäköisesti aiheuttaa riskin rekisteröidyn oikeuksille ja vapauksille tai
+- organisaatiossa käsitellään arkaluonteisia tietoja.
+
+Nähdäkseni tutkijoiden tekemä aineiston käsittely väistämättä menee kategoriaan, jossa henkilötietojen käsittely ei ole satunnaista. Näin ollen jonkinlainen suunnitelma olisi syytä tehdä. Käytännössä tällaisia vaaditaan nykyään enenevissä määrin myös projektihakemusten yhteydessä, joten tässä mielessä luvassa ei ole mitään uutta. 
+
+Kyseessä on organisaation sisäinen asiakirja, jonka perusteella tietojenkäsittelytoimien lainmukaisuutta voidaan arvioida. Nähdäkseni siinä olisi syytä kuvata, kuka aineistoa käsittelee, missä ympäristössä, minne sitä kopioidaan, ja kuinka aineisto järjestetään.
+
+## Erityiset henkilötiedot
+
+Erityiset henkilötiedot koskettavat tutkimus siinä mielessä hyvin voimakkaasti, että **niiden käsittely on lähtökohtaisesti kiellettyä**. Erityisiksi henkilötiedoiksi lasketaan seuraavat:
+
+- rotu tai etninen alkuperä
+- poliittisia mielipiteitä
+- uskonnollinen tai filosofinen vakaumus
+- ammattiliiton jäsenyys
+- terveyttä koskevia tietoja
+- seksuaalinen suuntautuminen tai käyttäytyminen
+- geneettisiä ja biometrisia tietoja henkilön tunnistamista varten
+
+Jos voit tehdä tutkimuksesi keräämättä erityisiä henkilötietoja, niin toimi näin. Tällä hetkellä, ymmärtääkseni, monikaan arkisto ei suostu ottamaan tällaista aineistoa vastaan, eikä sitä saa käsitellä esimerkiksi CSC:n IDA-ympäristössä.
+
+Joka tapauksessa tämäntapainen käsittely olisi silti ehkä mahdollista [(lähde: Tietosuoja.fi)](https://tietosuoja.fi/erityisten-henkilotietoryhmien-kasittely):
+
+> Kun käsittely on tarpeen **yleisen edun mukaista arkistointia, tieteellistä ja historiallista tutkimusta tai tilastointia varten** tietosuoja-asetuksen mukaisesti unionin oikeuden tai jäsenvaltion lainsäädännön nojalla. Käsittelyn mahdollistavan sääntelyn tulee olla oikeassa suhteessa käsittelyn tavoitteeseen nähden, ja siinä tulee noudattaa keskeisiltä osin oikeutta henkilötietojen suojaan. Tässä yhteydessä on myös säädettävä toimenpiteistä, joilla suojataan rekisteröidyn perusoikeudet ja edut.
+
+Tässä yhteydessä odotamme siis käsittääkseni kansallista tietosuojalainsäädäntöä, joka toivottavasti selventäisi arkistoinnin ja tieteellisen käytön.

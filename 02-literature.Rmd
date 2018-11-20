@@ -1,0 +1,35 @@
+# Erilaiset aineistot
+
+Mielestäni tutkijan kannattaisi pyrkiä siihen, että hänen käyttämänsä aineisto olisi digitaalisessa formaatissa. Tietysti on mahdollista etsiä esimerkkejä myös käymällä kirjoja läpi omin silmin, mutta nykyään on ehkä usein muitakin vaihtoehtoja.
+
+Tekstitiedostot käyvät sinällään jo moneen. On syytä tutustua säännöllisiin lausekkeisiin, tai ainakin erilaisiin hauissa toimiviin wild card -merkkeihin. Ohjelmat kuten AntConc ovat kokeilemisen arvoisia.
+
+Jos haluat käyttää aineistona jotain kirjaa tai muuta teosta, joka sinulla on esimerkiksi skannattuna, saa tekstin siitä nykyään helposti ulos OCR-ohjelmilla. Kerron mielelläni lisää!
+
+Iso ero on myös puhuttujen ja kirjoitettujen aineistojen välillä. Puhutut aineistot tulevat usein formaateissa, jotka mahdollistavat lisäannotointien teon. Esimerkiksi ELAN ja Exmaralda-ohjelmien tuottamat tiedostot ovat sellaisia, että niissä on omat kerrokset erilaisilla annotointityypeille. Voit siis tehdä uuden kerroksen, jossa on annotoituna vain sinun tutkimuksellesi tarpeelliset asiat niissä esimerkeissä, joita haluat käyttää.
+
+## Aineistoesimerkkejä
+
+- [Kielipankki](https://www.kielipankki.fi/)
+- [Oslon yliopiston korpukset](https://www.hf.uio.no/iln/english/about/organization/text-laboratory/services/index.html#speech)
+    - Esimerkiksi [Ruija-korpus](http://tekstlab.uio.no/glossa/html/index_dev.php?corpus=ruija)
+    - [LIA sápmi](https://tekstlab.uio.no/glossa2/saami) hyvä esimerkki akateemisesta lisenssistä
+- [HZSK](https://corpora.uni-hamburg.de/hzsk/)
+    - Selkuppi, nganasaani
+- [Universal Dependencies](http://universaldependencies.org/) 
+- [Ob-Babel](http://www.babel.gwi.uni-muenchen.de/)
+- Oulun saameaineistot
+
+### Venäjällä tyypillisiä aineistoja
+
+- [Komin kansallinen korpus](http://komicorpora.ru)
+- [Udmurt corpus](http://web-corpora.net/UdmurtCorpus/search/)
+- [Beserman corpus](http://beserman.ru/corpus/search/)
+- [Selkup.org](http://selkup.org/)
+
+- **Ongelma usein puutteellinen export-toiminto, mutta asiat ehkä kehittyvät.
+
+### Satunnaista
+
+- [Tundra Nenets sample sentence corpus](http://www.helsinki.fi/~tasalmin/tn_corpus.html)
+- [Valentin Gusevin nganasaani-korpus](http://www.iling-ran.ru/gusev/Nganasan/)

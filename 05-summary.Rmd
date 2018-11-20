@@ -1,0 +1,7 @@
+# Tiedon käsittely
+
+## Anonymisointi
+
+## Pseudonymisointi
+
+## IDA-ympäristö

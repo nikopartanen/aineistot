@@ -1,0 +1,5 @@
+# Tutkimusetiikka
+
+> Tieteellisen tutkimuksen luotettavuus ja tulosten uskottavuus edellyttävät, että tutkimuksessa noudatetaan hyvää tieteellistä käytäntöä. Vastuu hyvän tieteellisen käytännön noudattamisesta kuuluu koko tiedeyhteisölle ja jokaiselle tutkijalle. Helsingin yliopisto on sitoutunut Tutkimuseettisen neuvottelukunnan ohjeisiin hyvästä tieteellisestä käytännöstä ja sen loukkausten käsittelemisestä. [HY](https://www.helsinki.fi/fi/tutkimus/tutkimusymparisto/tutkimusetiikka)
+
+Kielitieteelliset aineistot poikkeuksetta käsittelevät ihmisiä. Joku on tuottanut tai kirjoittanut lauseet, joita tutkimme.  

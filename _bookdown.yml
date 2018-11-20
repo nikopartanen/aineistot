@@ -1,0 +1,5 @@
+book_filename: "aineisto-opas"
+language:
+  ui:
+    chapter_name: "Osa "
+delete_merged_file: true

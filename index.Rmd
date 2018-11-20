@@ -1,0 +1,36 @@
+--- 
+title: "Kielitieteellisen aineiston kerääjän opas"
+author: "Niko Partanen"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "Tämä teos on säännöllisesti päivittyvä opas tämänhetkisestä ymmärryksestämme kielitieteellisten aineistojen keräämiseen ja tietosuojaan liittyen."
+---
+
+# Esittely
+
+Kielitieteellisiä aineistoja on kerätty jo satojen vuosien ajan, joten myös uudet aineistot on syytä nähdä tällaisessa syvemmässä historiallisessa kontekstissa. Suomalais-ugrilaisten kielten osalta voi sanoa, että 1800-luvun lopulla kerätyt aineistot alkavat transkriptioltaan ja kuvailutiedoiltaan muistuttaa 1900-luvun aikana kerättyjä. Tätä vanhemmat aineistot ovat myös hyvin arvokkaita, mutta niiden käyttöön liittyy eri tavalla tehtävä tulkinta. Selkeä ero on esimerkiksi siinä, että vanhimmat aineistot eivät useinkaan sisällä tietoja kielenoppaista. Kieltä ajateltiin ehkä eri tavalla puhujasta irrallisena entiteettinä. Toisaalta 1800-luvun lopun aineistoissa on usein yhtä paljon, tai vähän, kuvailutietoja kuin uudemmissakin aineistoissa.
+
+## Kuka minä olen?
+
+Työskentelen Kotimaisten kielten keskuksessa kirjasto- ja aineistoyksikössä erityisasiantuntijana. Olen työskennellyt aiemmin mm. Freiburgin yliopistossa, Hamburger Zentrum für Sprachkorpora -keskuksessa sekä Pariisin ENS-yliopiston Lattice-laboratoriossa. Pääasiallinen kieli jota tutkin on komisyrjääni. Olen myös kiinnostunut itämerensuomalaisista kielistä ja permiläisistä kielistä yleisesti. Olen käyttänyt paljon kieliteknologiaa ja jonkin verran koneoppimismenetelmiä, mutta yleensä käyttäjän perspektiivistä, haluten saada näillä jonkin vaikean tai työlään työvaiheen pois käsistäni.
+
+Teen väitöskirjaani komisyrjäänin murteellisesta variaatiosta. Olen julkaissut viime vuosina erilaisia artikkeleja, mutten ole varma, tuleeko näistä mikään väitöskirjaani. En ole varsinaisesti tehnyt asioita suositellun akateemisen urakehityksen mukaisesti. CV:ni on luettavissa mm. [täällä](https://github.com/nikopartanen/cv/blob/master/niko_partanen_cv_fin.pdf).
+
+### Muutamia termejä avattuina
+
+1. Korpus: Jotenkin valittu aineisto, johon on usein tehty erilaisia annotointeja
+2. Annotointi: Jonkin asian systemaattinen merkintä, esim. sanaluokka, lauseenjäsen, elollisuus yms.
+3. Lisenssi: Ehdot, joilla aineistoa saa käyttää ja jakaa
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
